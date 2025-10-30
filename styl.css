@@ -46,7 +46,7 @@
     }
 
     section {
-        background-color: #3ABEFF;
+        background-color: #FFFFFF;
         height: 1000px;
         display: grid;
         grid-template-columns: 2fr 1fr 2fr;
@@ -206,4 +206,4 @@
         }
     
 
-    }
+    }
